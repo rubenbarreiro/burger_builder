@@ -1,2 +1,2 @@
 # burger_builder
-Burger builder for udemy course
+Burger builder for udemy course. There is nothing fancy going on here, I just wanted to have this on github for working on it in my computers without too much hassle, and who knows, maybe some recruiter may want to look at my repos.
